@@ -7,7 +7,7 @@
 	The algorithms used to solve the system of linear equations are <br>
 	<ul>
 		<li><i><b>Guassian elimination method</b></i></li>
-		<li><i><b>Guassian Siedel method</b></i></li>
+		<li><i><b>Guass Siedel method</b></i></li>
 	</ul>
 	This project also includes finding inverse of the matrix using <b><i>LDU decomposition</i></b>. <br>
 
